@@ -7,6 +7,5 @@ I ❤ BGP. I ❤ [Go](https://golang.org). I ❤ any combination of Go and netwo
 * Created and runs [bgpstuff.net](https://bgpstuff.net)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellowdrifter&theme=dark)](https://github.com/mellowdrifter/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellowdrifter&theme=dark&hide=HTML)](https://github.com/mellowdrifter/github-readme-stats)
 ![mellowdrifter's github stats](https://github-readme-stats.vercel.app/api?username=mellowdrifter&show_icons=true&count_private=true&line_height=40&theme=dark)
