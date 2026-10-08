@@ -1,6 +1,6 @@
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellowdrifter&theme=dark&hide=HTML&layout=compact" alt="Top languages" />
-
 ## Hey 👋, I'm Darren
+
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellowdrifter&theme=dark&hide=HTML&layout=compact" alt="Top languages" />
 
 I ❤ BGP. I ❤ [Go](https://golang.org). I ❤ any combination of Go and networking.
 
