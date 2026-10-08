@@ -4,8 +4,8 @@ I ❤ BGP. I ❤ [Go](https://golang.org). I ❤ any combination of Go and netwo
 
 ### What I'm up to
 - 🌐 Created and run [**bgpstuff.net**](https://bgpstuff.net): <one line on what it offers>
-- 🔭 Currently working on: <your current project>
-- 📚 Learning: <something you're exploring>
+- 🔭 Currently working on: BGP
+- 📚 Learning: Rust
 
 ### Tech
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
