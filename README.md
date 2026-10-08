@@ -13,7 +13,4 @@ I ❤ BGP. I ❤ [Go](https://golang.org). I ❤ any combination of Go and netwo
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![BGP](https://img.shields.io/badge/-BGP-444?logo=cloudflare&logoColor=white)
 
-### Connect
-[Website](https://bgpstuff.net) · [LinkedIn](#) · [Email](mailto:you@example.com)
-
 <br clear="right" />
