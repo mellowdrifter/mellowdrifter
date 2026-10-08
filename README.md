@@ -1,11 +1,19 @@
-### Hey 👋, I'm Darren
-
-[![Github](https://img.shields.io/github/followers/mellowdrifter?label=Follow&style=social)](https://github.com/mellowdrifter)
+## Hey 👋, I'm Darren
 
 I ❤ BGP. I ❤ [Go](https://golang.org). I ❤ any combination of Go and networking.
 
-* Created and runs [bgpstuff.net](https://bgpstuff.net)
+### What I'm up to
+- 🌐 Created and run [**bgpstuff.net**](https://bgpstuff.net): <one line on what it offers>
+- 🔭 Currently working on: <your current project>
+- 📚 Learning: <something you're exploring>
 
+### Tech
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![BGP](https://img.shields.io/badge/-BGP-444?logo=cloudflare&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellowdrifter&theme=dark&hide=HTML)](https://github.com/mellowdrifter/github-readme-stats)
-![mellowdrifter's github stats](https://github-readme-stats.vercel.app/api?username=mellowdrifter&show_icons=true&count_private=true&line_height=40&theme=dark)
+### Connect
+[Website](https://bgpstuff.net) · [LinkedIn](#) · [Email](mailto:you@example.com)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellowdrifter&theme=dark&hide=HTML&layout=compact" />
+</p>
